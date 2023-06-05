@@ -1,6 +1,6 @@
 # NLP-Project-Text-to-Speech
 
-**PROBLEM STAEMENT**
+**PROBLEM STATEMENT**
 
 In this project our goal is to achieve the problem of converting textual data into speech data.
 
